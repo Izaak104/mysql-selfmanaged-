@@ -45,3 +45,5 @@ o	“python3” to determine which version of python is being run on the system
 •	Run sudo apt install mysql-server mysql-client (To install MySql)
 
 
+
+
